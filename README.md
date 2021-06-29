@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @Abayo Timothy
 - 👀 I’m interested in machine learning  and computer vision algorithms for solving agriculture and ecology related problems,
-- 🌱 I’m currently learning machine learning algorith optimization techniques 
+- 🌱 I’m currently learning machine learning algorithm optimization techniques 
 - 💞️ I’m looking to collaborate on teams that work on projects that involve solving agriculture and ecology related problems.
 - 📫 How to reach me, e-mail me using timothyabayo1@gmail.com
 
